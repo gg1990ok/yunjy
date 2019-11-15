@@ -7,11 +7,11 @@
 
 > 下载地址： https://github.com/zxlie/FeHelper/tree/master/apps/static/screenshot/crx
 (也可以翻墙在官方插件库安装。)
-### crxw文件 安装方法
-下载当前最新版*.crx
-chrome浏览器地址栏输入：chrome://extensions/ 并打开
-右上角开启开发者模式
-拖拽crx到当前页面，完成安装
+### crx文件 安装方法
+1.下载当前最新版*.crx  
+2.chrome浏览器地址栏输入：chrome://extensions/ 并打开  
+3.右上角开启开发者模式  
+4.拖拽crx到当前页面，完成安装
 
 ## 导入页面油猴
 打开FeHelper中的 页面油猴工具。
